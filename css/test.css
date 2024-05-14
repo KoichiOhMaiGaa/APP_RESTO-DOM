@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;  
+    background-color: black;
+}
+h2{
+    padding: 10px;
+    background-color: white;
+    color: rgb(133, 133, 133);
+}
+
+ul{
+    width:60%;
+    background-color: white;
+
+    li{
+        padding: 20px;
+        background-color: gainsboro;
+    }
+}
