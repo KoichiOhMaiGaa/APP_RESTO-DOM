@@ -54,40 +54,41 @@
         "cant_review": 3,
         "reviews": [
             {
-                "name": "Rubenferraris",
-                "description": "godines",
+                "name": "Pepe Sanchez",
+                "description": "chupo",
                 "usr_img": "https://randomuser.me/api/portraits/men/1.jpg",
-                "stars": "∞"
+                "stars": 5
             },
             {
-                "name": "El papu",
-                "usr_img": "https://randomuser.me/api/portraits/men/2.jpg",
-                "description": "No hay momos",
-                "stars": 2
-            },
-            {
-                "name": "Ungarron Tobias",
-                "usr_img": "https://randomuser.me/api/portraits/men/3.jpg",
-                "description": "Le falta proteina a la comida",
-                "stars": 3
-            },
-            {
-                "name": "Agustin Pupich",
-                "description": "Muy lindo el mesero",
-                "usr_img": "https://randomuser.me/api/portraits/men/4.jpg",
-                "stars": 1
-            },
-            {
-                "name": "Luca Cabra",
-                "usr_img": "https://randomuser.me/api/portraits/men/5.jpg",
-                "description": "No se que decir",
+                "name": "Goku Hernandez de Todos Los Santos",
+                "usr_img": "https://randomuser.me/api/portraits/men/30.jpg",
+                "description": "el cocinero se me quedó viendo raro",
                 "stars": 2
             },
             {
                 "name": "Mauricio Gil",
-                "usr_img": "https://randomuser.me/api/portraits/men/6.jpg",
-                "description": "Como hateo la milanesa dwmerlusa",
+                "usr_img": "https://randomuser.me/api/portraits/men/61.jpg",
+                "description": "Lo dije en la pagina de ruben y lo digo acá. Como hateo la milanesa de merlusa",
+                "stars": 2
+            },
+            {
+                "name": "To Be Ass",
+                "usr_img": "https://randomuser.me/api/portraits/men/33.jpg",
+                "description": "Encontré cuatro pelos en la comida",
                 "stars": 3
+            },
+            
+            {
+                "name": "CabritaPiuPiu05",
+                "usr_img": "https://randomuser.me/api/portraits/men/45.jpg",
+                "description": "Taba chido",
+                "stars": 2
+            },
+           {
+                "name": "Puchipu777",
+                "description": "Le dije a la mesera buen dia. Era de noche.",
+                "usr_img": "https://randomuser.me/api/portraits/men/54.jpg",
+                "stars": 1
             }
         ]
     },
