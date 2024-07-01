@@ -82,14 +82,20 @@
                 "name": "CabritaPiuPiu05",
                 "usr_img": "https://randomuser.me/api/portraits/men/45.jpg",
                 "description": "Taba chido",
-                "stars": 2
+                "stars": 4
             },
            {
                 "name": "Puchipu777",
                 "description": "Le dije a la mesera buen dia. Era de noche.",
                 "usr_img": "https://randomuser.me/api/portraits/men/54.jpg",
                 "stars": 1
-            }
+            },
+            {
+                 "name": "Bragueta666",
+                 "description": "La comida es mas chica que mi tula, me cagué de hambre",
+                 "usr_img": "https://randomuser.me/api/portraits/men/54.jpg",
+                 "stars": 1
+             }
         ]
     },
     {
